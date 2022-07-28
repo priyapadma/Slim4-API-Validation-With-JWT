@@ -25,6 +25,6 @@ After that, open `http://localhost:8080` in your browser.
 
 That's it! Now go build something cool.
 
-## Enter the db details (host, username, database, password) in app -> settings.php 
+### Enter the db details (host, username, database, password) in app -> settings.php 
 ## Inlcude the APIs which requires JWT authorization in app -> middleware.php - path 
 ## Create a db table named users and add 10 entries to validate db connection
